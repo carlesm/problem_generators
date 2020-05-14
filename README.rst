@@ -26,7 +26,13 @@ Problem generators for distance learning, generating PDF (via LaTeX), TXT (Markd
 Features
 --------
 
-* TODO
+
+Planned
+-------
+
+* Define structure for problems, answers, etc. 
+* Simple TXT (CSV? Markdown?) to XML converter.
+* Simple TXT (CSV? Markdown?) to LaTeX converter.
 
 Credits
 -------
